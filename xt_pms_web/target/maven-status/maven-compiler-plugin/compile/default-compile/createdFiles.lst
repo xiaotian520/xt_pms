@@ -1,0 +1,7 @@
+com\xt\pms\controller\ProductController.class
+com\xt\pms\controller\UserController.class
+com\xt\pms\controller\SysLogController.class
+com\xt\pms\controller\OrdersController.class
+com\xt\pms\controller\PermissionController.class
+com\xt\pms\controller\LogAop.class
+com\xt\pms\controller\RoleController.class

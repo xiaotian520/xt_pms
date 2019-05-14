@@ -1,0 +1,12 @@
+com\xt\pms\service\impl\UserServiceImpl.class
+com\xt\pms\service\impl\OrdersServiceImpl.class
+com\xt\pms\service\IOrdersService.class
+com\xt\pms\service\IPermissionService.class
+com\xt\pms\service\ISysLogService.class
+com\xt\pms\service\impl\PermissionServiceImpl.class
+com\xt\pms\service\impl\RoleServiceImpl.class
+com\xt\pms\service\IRoleService.class
+com\xt\pms\service\impl\SysLogServiceImpl.class
+com\xt\pms\service\IProductService.class
+com\xt\pms\service\IUserService.class
+com\xt\pms\service\impl\ProductServiceImpl.class

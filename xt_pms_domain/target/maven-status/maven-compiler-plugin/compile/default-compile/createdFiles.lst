@@ -1,0 +1,8 @@
+com\xt\pms\domain\Permission.class
+com\xt\pms\domain\Role.class
+com\xt\pms\domain\Orders.class
+com\xt\pms\domain\Product.class
+com\xt\pms\domain\SysLog.class
+com\xt\pms\domain\Member.class
+com\xt\pms\domain\Traveller.class
+com\xt\pms\domain\UserInfo.class
